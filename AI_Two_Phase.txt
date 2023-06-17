@@ -1,0 +1,26 @@
+Two Phases of AI(1.Machine Learning 2.Deep Learning 3.Natural Language Processs 4.Time Series Analysis)
+1.Model Creation(Learning Process)(Phase-1 Learning Phase)
+Model creation is like instagram filter where is nose,lip and mouth in insta where to fix the glass in face.
+
+2.Deployment/Production/Implement(Phase-2)
+Call to action.Automaticall glass will fix in eyes.
+
+AI Phase-1.Model Creation(Learning Process)(Phase-1 Learning Phase)
+Data collection ---> Data Preprocessing ---> Input/Output Split --->Split Train  and Test --->  1.Train set---> Model Creation 
+                                                                     Split Train  and Test--->  2.Test  set--->Evaluation  Metrics
+                                                                                                2.Test  set ---> Save the best Model
+           
+1.Data collection-Collectin Datas
+2.Data Preprocessing (Only particular important Data.Eg:Input and Output) 
+3.Input/Output Split
+Assigning Input and output in individual Vraiable                                                                      
+4.Split Train  and Test(Train (Eg:Revision Exam) and Test (Eg:Board Exam(Final)) 
+Train Set is to creat a model 
+Test Set is Evaluation metrics,Final one and Save the best method(Output)
+
+AI Phase-2.Deployment
+
+1.Load the saved Model(Where we get in Learning Phase as Final Output)
+2.Get Inputs
+3.Prediction
+4.Call to action                                    

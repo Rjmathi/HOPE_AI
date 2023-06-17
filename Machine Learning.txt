@@ -1,0 +1,58 @@
+Stage-1
+Based on client data and requirement,If it is
+Input:Domain
+1.Numbers-Machine Learning(Eg:Excels Datas)
+2.Image&Number-Deep learning(Eg:Flowers(Image) To Predict,Dogs(Images) to predict)
+3.Text-Natural Langauage processing(Eg:Amazon Reviews,Flipkart Rewiews,Online Reviews(To predict positive or negative))
+4.Date-Time Series Analysis(Eg:Predict to ozone value for future days)
+Machine learning,Deep Learning,Natural Langaugae processing not based on time 
+but Time series Analysis is completely Based time,Date,Year)
+5.Data science -In business analysis we dont need prediction we need analysis and Statistics.
+1.Machine Learning
+Stage-2 Learning Selection 
+Type-1.Supervised Learning(Monitering)
+Type-2.Unsupervised Learning
+Type-3.Semisupervised Learning
+
+Type-1.Supervised Learning(Monitering)
+Requirement is very clear and Input and Output are present and well defined that is called Supervised Learning
+One input or 100(Multiple)input or Variables or Features or Independent
+Output or Target or Response Variable or label
+Type-2.Unsupervised Learning(Clustering)
+Requirement is not clear and input are not clear,there is no output variable,
+unsupervised data is helpful to target marketing.
+Unsupervised Learning is means clustering and its helpful for Target Marketing.
+eg:Google lens ,if u upload any image ,google gives whatever matches with uploaded image 
+Type-3.Semisupervised Learning
+Semi means Half
+Semisupervised is half of supervised and half of Unsupervised
+Input available ,Output layer half not available,or sometimes complete output is not available.Requirement is clear
+we need to change semisupervised datas to Supervised Datas-Step 1
+
+
+Stage-3 Supervised(Regression or Classification)
+This stage is only applicable for Supervised Learning 
+The given problem is comes under Supervised learning only then only we will goes to Regression and Classification
+1.Classification-Classifying the output Based on the input Parameter 
+we are going to predict output, so the output column is in words then it is Classification,
+that is categorical data(Eg:yes/no,Dog/Cat,House/not House
+2.If the Output is in NumericalValue or Continuous Values.Continous Value means its in Decimal Value(23.4,45.5,43.9,32.5).
+We need to find that is Classification or Regression means we need to see and check the output.
+Final-If the output is in Words then it is Classification if the output is in NUmerical then that is Regression.
+
+2.Deep learning-Image&Number
+Type-1.Supervised Learning(Monitering)
+Type-2.Unsupervised Learning(Rare case in Deep learning)
+Type-3.Semisupervised Learning
+
+3.Natural Langauage processing-Text
+Type-1.Supervised Learning
+Type-2.Unsupervised Learning(Rare case in Natural Language Processing learning)
+Type-3.Semisupervised Learning
+
+4.Time Series Analysis-Date
+Type-1.Supervised Learning(Only Supports Regression)
+Type-2.Unsupervised Learning(Rare case in Time Series Analysis )
+Type-3.Semisupervised Learning
+
+

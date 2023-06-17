@@ -1,0 +1,45 @@
+Machine Learning-Algorithms
+1.Regresssion Algorithm(Low Error)
+2.Classification Algorithm
+
+1.Support vector Machine 2.Decision Tree 3.Random Forest.These three supports for both Regression and Classification Algorithm
+
+1.Regression Algorithm
+1.Linear Algorithm 2.Multiple Linear Regression 3.Polynomial Regression.These three purely supports for Regression Algorithm
+
+2.Classification Algorithm
+1.Logistic Algorithm 2.Navies Bayes 3.KNN .These is for Classification Algorithm.
+
+There are lots of basic Algorithm comes under Regression and classification.
+
+1.Simple Linear Regression-Future Prediction
+Simple(One I/P,One O/P)
+Linear -Slope(Sland Slope(/))
+Regression-Decimal
+Y=wX+B
+Straight Line Equation Y=mX+C
+Which x is input(Independent),Y is Output(Dependent/Response Variable)
+y=O/p(Which forms Straight line by adding all data points)
+m=Slope=dy/dx=Weight (Which says about constant distance between two data points)
+but in ML that M is w(Weight),C is Bias so B(Y=WX+b)
+M is constant distance between two data points in inputs(X axis)
+X=I/p(If input change,Output also changes accordingly)
+C=Bias=intercept=Starting of straight line=initial Value=Minimal Value 
+W(Slope) means in which ratio between two point in x axis is increased
+B(Bias)Inial Value/Minimal Value/Origin (Starting point in X axis)
+
+Validating Parameters(To test the finded model-15 Parameters)
+Vlidating Parameter:
+1.Sum Square Error(SSE) or Residual Sum of Square(RSS)(Sigma value is lower)
+2.Sum of Square Regression(SSR) or Explained Sum of Square(ESS)(Sigma value is Higher)
+3.Sum of Square Total(SST)(Sigma value is lower)
+SST=SSR+SSE
+4.R Square(R^2)
+RSqaure=SSR/SST
+RSqaure Lies between 0 to 1
+1 means Better Performance
+0 means poor performance
+
+
+
+
